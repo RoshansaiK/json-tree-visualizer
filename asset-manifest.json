@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-tree-visualizer/static/css/main.728ef8fc.css",
+    "main.js": "/json-tree-visualizer/static/js/main.b0a3cb5d.js",
+    "index.html": "/json-tree-visualizer/index.html",
+    "main.728ef8fc.css.map": "/json-tree-visualizer/static/css/main.728ef8fc.css.map",
+    "main.b0a3cb5d.js.map": "/json-tree-visualizer/static/js/main.b0a3cb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728ef8fc.css",
+    "static/js/main.b0a3cb5d.js"
+  ]
+}
